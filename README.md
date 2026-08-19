@@ -31,13 +31,16 @@ Run Training:
 Agent Implementation: 73-dimensional observation space, 2 continuous actions, competitive reward shaping with opponent penalty
 
 The arena:
-<img width="955" height="535" alt="image" src="https://github.com/user-attachments/assets/1ef8dfd7-ee3e-49ba-864b-9b473d9ca7fb" />
+<img width="955" height="535" alt="538625325-1ef8dfd7-ee3e-49ba-864b-9b473d9ca7fb" src="https://github.com/user-attachments/assets/59e36cca-4aab-4657-a1d5-fca07d6fbe55" />
+
 
 The model after 1.7mln steps:
 
 
 
-https://github.com/user-attachments/assets/c5be4490-d605-4f41-8106-d553bc888314
+https://github.com/user-attachments/assets/550321c3-ae7f-4a59-ae3a-d163551f1898
+
+
 
 
 
